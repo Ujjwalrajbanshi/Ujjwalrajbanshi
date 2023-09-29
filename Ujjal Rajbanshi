@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BTS.ELECTRONIC STORE</title>
+    <link rel="stylesheet"href="YouTube.css">
+</head>
+<body background="D:\Images+videos\Images\Background images\Screenshot 2023-09-28 180520.png">
+    
+    <div class="header">
+            <a href=""><img src="D:\Images+videos\Images\Background images\youtube logo img\Screenshot 2023-09-19 101016.png"height="15px"></a>
+            </div>
+
+            <div class="yt">
+            <a href=""><img src="D:\Images+videos\Images\Background images\youtube logo img\Screenshot 2023-09-24 195716.png"height="36.5px"></a>
+            </div>
+            
+            <div class="search">
+                <input type="searsh">
+            </div>
+
+            <div class="text">
+                <p>Search</p>
+            </div>
+
+            <div class="logo_search">
+                <img src="D:\Images+videos\Images\Background images\youtube logo img\57257f050c474035819bcb4b8076784b (1).png">
+            </div>
+
+            <div class="voice_search">
+                <img src="D:\Images+videos\Images\Background images\youtube logo img\57257f050c474035819bcb4b8076784b.png">
+            </div>
+
+            <div class="googal">
+                <img src="D:\Images+videos\Images\Background images\youtube logo img\Screenshot 2023-09-24 185552.png">
+            </div>
+            <br><br><hr color="black">
+            <div class="imgg">
+                <img src="D:\Images+videos\Images\Background images\tree.jpg"alt="This image is deleted">
+            </div>
+
+            <div class="h1">
+                <h1>WELCOME TO TUBBODY</h1>
+            </div>
+
+            <div class="nav">
+                <ul class="di">
+                    <li class="ddi"><a href="Home.html">HOME</a></li>
+                    <li class="ddi"><a href="Product.html">PRODUCTS</a></li>
+                    <li class="ddi"><a href="Abouts1.html">ABOUT</a></li>
+                    <li class="ddi"><a href="">CONTACT US</a></li>
+                </ul>
+            </div>
+            <hr width="100%">
+            <div class="but">
+            <button><a href="Laptops.html"style="color:black">Laptops</a></button>
+            <button><a href="Computers.html"style="color:black">Computers</a></button>
+            <button><a href="Tv.html"style="color:black">Television</a></button>
+            <button><a href="Mobiles.html"style="color:black">Mobiles</a></button>
+            <button><a href=""style="color:black">Fans</a></button>
+            </div>
+            <br>
+<div class="abt">
+    <h1>About</h1>
+    <p>This website name is <b>BTS ELECTONIC STORE</b><br>
+        It is website is build by <mark>UJJWAL RAJBANSHI.</mark>
+    It <br>is build in 09-25-2023.It is build for online shopping.</p>
+</div>
+            <table border="1"width="100%">
+                <tr>
+                    <th><img src="D:\Images+videos\Images\Laptops\Hp 15 EF2127.png"width="250px">
+                        <p>HP 15-EF2127 RYZEN 5 5500U 
+                            <br>8GB RAM 512GB SSD 15.6 FHD Display 
+                            <br>RS:68,000</p>
+                                </th>
+
+                                <th><img src="D:\Images+videos\Images\Laptops\Hp 15 EF2127.png"width="250px">
+                                    <p>HP 15-EF2127 RYZEN 5 5500U 
+                                        <br>8GB RAM 512GB SSD 15.6 FHD Display 
+                                        <br>RS:68,000</p>
+                                            </th>
+            
+                        <th><img src="D:\Images+videos\Images\Laptops\Hp.png"width="250px">
+                        <p>HP Laptop 250 G9/ Intel Core i5 12th Gen/<br>8GB RAM/512GB NVMe SSD /Backlit Keyboard/ 15.6" FHD
+                             <br>RS:76,499</p></th>
+                             <th><img src="D:\Images+videos\Images\Laptops\Screenshot 2023-09-25 003917.png"width="250px">
+                            <p>
+                                HP 255 G8 / Ryzen 5 5500U / 15.6″ FHD /
+                                <br> 8 GB RAM / 256 GB SSD / AMD Radeon Graphics
+                                <br>RS:61,500
+                            </p></th>
+
+                            <th><img src="D:\Images+videos\Images\Laptops\Hp2.png"width="250px">
+                                <p>HP 14-DK, AMD RYZEN 3,8GB RAM,256GB SSD,<br> Windows 10,Silver<br>
+                                    RS:50,000</p></th>
+                </tr>
+                <tr>
+                    <th><img src="D:\Images+videos\Images\Laptops\hp3.png"width="250px">
+                        <p>Hp 14 I3-11th Gen 8Gb Ram<br> 256Gb PCIe NVMe SSD 14" FHD Display<br>RS:60,000
+                        </p></th>
+
+                    <th><img src="D:\Images+videos\Images\Laptops\hp4.png"width="250px">
+                    <p>HP 15S-EQ2120AU RYZEN7 8GB RAM/512GB SSD/OS<br>RS:91,000
+                    </p></th>
+
+                    <th><img src="D:\Images+videos\Images\Laptops\hp4.png"width="250px">
+                        <p>HP 15S-EQ2120AU RYZEN7 8GB RAM/512GB SSD/OS<br>RS:91,000
+                        </p></th>
+
+                        <th><img src="D:\Images+videos\Images\Laptops\hp3.png"width="250px">
+                            <p>Hp 14 I3-11th Gen 8Gb Ram<br> 256Gb PCIe NVMe SSD 14" FHD Display<br>RS:60,000
+                            </p></th>
+
+                        <th><img src="D:\Images+videos\Images\Laptops\hp4.png"width="250px">
+                            <p>HP 15S-EQ2120AU RYZEN7 8GB RAM/512GB SSD/OS<br>RS:91,000
+                            </p></th>
+                </tr>
+                <tr>
+                    <th><img src="D:\Images+videos\Images\Laptops\Hp 15 EF2127.png"width="250px">
+                        <p>HP 15-EF2127 RYZEN 5 5500U 
+                            <br>8GB RAM 512GB SSD 15.6 FHD Display 
+                            <br>RS:68,000</p>
+                                </th>
+
+                        <th><img src="D:\Images+videos\Images\Laptops\Hp.png"width="250px">
+                        <p>HP Laptop 250 G9/ Intel Core i5 12th Gen/<br>8GB RAM/512GB NVMe SSD /Backlit Keyboard/ 15.6" FHD
+                             <br>RS:76,499</p></th>
+                             <th><img src="D:\Images+videos\Images\Laptops\Screenshot 2023-09-25 003917.png"width="250px">
+                            <p>
+                                HP 255 G8 / Ryzen 5 5500U / 15.6″ FHD /
+                                <br> 8 GB RAM / 256 GB SSD / AMD Radeon Graphics
+                                <br>RS:61,500
+                            </p></th>
+
+                            <th><img src="D:\Images+videos\Images\Laptops\Hp2.png"width="250px">
+                                <p>HP 14-DK, AMD RYZEN 3,8GB RAM,256GB SSD,<br> Windows 10,Silver<br>
+                                    RS:50,000</p></th>
+
+                                    <th><img src="D:\Images+videos\Images\Laptops\Hp 15 EF2127.png"width="250px">
+                                        <p>HP 15-EF2127 RYZEN 5 5500U 
+                                            <br>8GB RAM 512GB SSD 15.6 FHD Display 
+                                            <br>RS:68,000</p>
+                                                </th>
+                </tr>
+
+                <tr>
+                    <th><img src="D:\Images+videos\Images\Computers\comp1.png"width="250px">
+                        <p>Assemble Desktop PC i3 3rd Generation<br> 4 GB RAM 256 GB SSD 18.5 Monitor Keyboard & Mouse<br>RS:21,000
+                        </p></th>
+
+                        <th><img src="D:\Images+videos\Images\Computers\Comp2.png"width="250px">
+                        <p>Computer Set with Core 2 Duo 3.0, 4GB DDR3 RAM,<br> 128GB SSD, and 15-inch Monitor<br>RS:16,000
+                        </p></th>
+
+                        <th><img src="D:\Images+videos\Images\Computers\Comp3.png"width="250px">
+                            <p>Wifi Desktop Computer Assemble Wireless Intel Core i5/
+                                <br> 4 GB DDR3/ 500GB HDD 19 inch Monitor Intel HD<br> Graphics 64 bit Windows 10
+                                <br>RS:31,000
+                            </p></th>
+
+                            <th><img src="D:\Images+videos\Images\Computers\Comp4.png"width="250px">
+                                <p>Computer Wifi Core i5 (3 Gen)/ 8 GB DDR3/<br>
+                                     Both SSD128 Hdd500GB/ 19 inch Monitor Win10 64bit<br>RS:33,000
+                                </p></th>
+
+                                <th><img src="D:\Images+videos\Images\Computers\comp1.png"width="250px">
+                                    <p>Assemble Desktop PC i3 3rd Generation<br> 4 GB RAM 256 GB SSD 18.5 Monitor Keyboard & Mouse<br>RS:21,000
+                                    </p></th>
+            
+                </tr>
+                <tr>
+                    <th><img src="D:\Images+videos\Images\Computers\comp1.png"width="250px">
+                        <p>Assemble Desktop PC i3 3rd Generation<br> 4 GB RAM 256 GB SSD 18.5 Monitor Keyboard & Mouse<br>RS:21,000
+                        </p></th>
+
+                        <th><img src="D:\Images+videos\Images\Computers\Comp3.png"width="250px">
+                            <p>Wifi Desktop Computer Assemble Wireless Intel Core i5/
+                                <br> 4 GB DDR3/ 500GB HDD 19 inch Monitor Intel HD<br> Graphics 64 bit Windows 10
+                                <br>RS:31,000
+                            </p></th>
+
+                            <th><img src="D:\Images+videos\Images\Computers\Comp2.png"width="250px">
+                                <p>Computer Set with Core 2 Duo 3.0, 4GB DDR3 RAM,<br> 128GB SSD, and 15-inch Monitor<br>RS:16,000
+                                </p></th>
+
+                                <th><img src="D:\Images+videos\Images\Laptops\hp3.png"width="250px">
+                                    <p>Hp 14 I3-11th Gen 8Gb Ram<br> 256Gb PCIe NVMe SSD 14" FHD Display<br>RS:60,000
+                                    </p></th>
+        
+
+                            <th><img src="D:\Images+videos\Images\Computers\Comp4.png"width="250px">
+                                <p>Computer Wifi Core i5 (3 Gen)/ 8 GB DDR3/<br>
+                                     Both SSD128 Hdd500GB/ 19 inch Monitor Win10 64bit<br>RS:33,000
+                                </p></th>
+                </tr>
+            </tr>
+            <tr>
+                <th><img src="D:\Images+videos\Images\Computers\comp5.png"width="250px">
+                    <p>Assemble Desktop PC i3 3rd Generation<br> 4 GB RAM 256 GB SSD 18.5 Monitor Keyboard & Mouse<br>RS:17,000
+                    </p></th>
+
+                    <th><img src="D:\Images+videos\Images\Computers\Comp3.png"width="250px">
+                        <p>Wifi Desktop Computer Assemble Wireless Intel Core i5/
+                            <br> 4 GB DDR3/ 500GB HDD 19 inch Monitor Intel HD<br> Graphics 64 bit Windows 10
+                            <br>RS:31,000
+                        </p></th>
+
+                        <th><img src="D:\Images+videos\Images\Computers\Comp2.png"width="250px">
+                            <p>Computer Set with Core 2 Duo 3.0, 4GB DDR3 RAM,<br> 128GB SSD, and 15-inch Monitor<br>RS:16,000
+                            </p></th>
+    
+
+                        <th><img src="D:\Images+videos\Images\Computers\Comp4.png"width="250px">
+                            <p>Computer Wifi Core i5 (3 Gen)/ 8 GB DDR3/<br>
+                                 Both SSD128 Hdd500GB/ 19 inch Monitor Win10 64bit<br>RS:33,000
+                            </p></th>
+
+                            <th><img src="D:\Images+videos\Images\Laptops\hp4.png"width="250px">
+                                <p>HP 15S-EQ2120AU RYZEN7 8GB RAM/512GB SSD/OS<br>RS:91,000
+                                </p></th>
+            </tr>
+
+            <tr>
+                <th><img src="D:\Images+videos\Images\Television\Tv1.png"width="250px">
+                <p>badgeVESTEL 32" Inch Standard TV LED<br> Television | IPS Panel |
+                    Dolby Sound |<br> Full HD | Free wall mount |<br> 3 Years Warranty<br>
+                    RS:14,500
+                </p></th>
+
+                <th><img src="D:\Images+videos\Images\Television\Tv2.png"width="250px">
+            <p>Wega 32 " LED Smart TV Double Glass<br> 4 GB ROM With Android 9.0<br>RS:27,500
+            </p></th>
+
+            <th><img src="D:\Images+videos\Images\Television\Tv3.png"width="250px">
+                <p>Wega 24 Inch Full Hd 1080P LED TV<br>
+                     And Mnitor Double Glass, HDMI, VGA
+                     Input<br>RS:11,500
+                </p></th>
+
+                <th><img src="D:\Images+videos\Images\Television\Tv4.png"width="250px">
+                    <p>Wega 32 LED Smart Android High Sound TV<br>RS:17,500
+                    </p></th>
+
+                    <th><img src="D:\Images+videos\Images\Television\Tv5.png"width="250px">
+                        <p>Aiwa HJ32AT700T 32 inch Normal LED TV<br> With Ultra Bass Technology
+                            <br>RS:14,500
+                        </p></th>
+                
+            </tr>
+            <tr>
+                <th><img src="D:\Images+videos\Images\Television\Tv1.png"width="250px">
+                <p>badgeVESTEL 32" Inch Standard TV LED<br> Television | IPS Panel |
+                    Dolby Sound |<br> Full HD | Free wall mount |<br> 3 Years Warranty<br>
+                    RS:14,500
+                </p></th>
+
+                <th><img src="D:\Images+videos\Images\Television\Tv2.png"width="250px">
+            <p>Wega 32 " LED Smart TV Double Glass<br> 4 GB ROM With Android 9.0<br>RS:27,500
+            </p></th>
+
+            <th><img src="D:\Images+videos\Images\Television\Tv3.png"width="250px">
+                <p>Wega 24 Inch Full Hd 1080P LED TV<br>
+                     And Mnitor Double Glass, HDMI, VGA
+                     Input<br>RS:11,500
+                </p></th>
+
+                <th><img src="D:\Images+videos\Images\Television\Tv4.png"width="250px">
+                    <p>Wega 32 LED Smart Android High Sound TV<br>RS:17,500
+                    </p></th>
+
+                    <th><img src="D:\Images+videos\Images\Television\Tv5.png"width="250px">
+                        <p>Aiwa HJ32AT700T 32 inch Normal LED TV<br> With Ultra Bass Technology
+                            <br>RS:14,500
+                        </p></th>
+            </tr>
+
+            <tr>
+                <th><img src="D:\Images+videos\Images\Mobiles\Mob1.png"width="270px">
+                    <p>
+                        badgeRedmi 12C (4/64 GB) | 6.71"<br>
+                         Immersive Display | 50MP AI Dual Camera<br>
+                         RS:14,500
+                    </p></th>
+
+                    <th><img src="D:\Images+videos\Images\Mobiles\Mob2.png"width="270px">
+                        <p>
+                            badgeOnePlus Nord N200 5G |
+                            <br> 4GB RAM & 64GB ROM |
+                            <br> 6.49" FHD+ 90Hz Smooth
+                            <br> Display | 5000mAh Battery |
+                            <br> 18W Fast Charging | Single SIM<br>
+                             RS:18,500
+                        </p></th>
+
+                        <th><img src="D:\Images+videos\Images\Mobiles\Mob3.png"width="270px">
+                            <p>
+                                Vitu W1 3/32 4G LITE<br> 5000 mAh Battery<br>
+                                 RS:9,500
+                            </p></th>
+
+                            <th><img src="D:\Images+videos\Images\Mobiles\Mob4.png"width="270px">
+                                <p>Samsung Galaxy M14 5G (6GB/128GB) |<br>
+                                     6.6" 90Hz FHD+ Display | 6000mAh 
+                                     <br>Battery | Exynos 1330<br>
+                                     RS:25,500
+                                </p></th>
+
+                                <th><img src="D:\Images+videos\Images\Mobiles\Mob5.png"width="270px">
+                                    <p>badgeApple iPhone 13 - Oliz Store
+                                    </p><br>
+                                         RS:120,900
+                                    </p></th>
+
+                                    <tr>
+                                        <th><img src="D:\Images+videos\Images\Mobiles\Mob1.png"width="270px">
+                                            <p>
+                                                badgeRedmi 12C (4/64 GB) | 6.71"<br>
+                                                 Immersive Display | 50MP AI Dual Camera<br>
+                                                 RS:14,500
+                                            </p></th>
+                    
+                                            <th><img src="D:\Images+videos\Images\Mobiles\Mob2.png"width="270px">
+                                                <p>
+                                                    badgeOnePlus Nord N200 5G |
+                                                    <br> 4GB RAM & 64GB ROM |
+                                                    <br> 6.49" FHD+ 90Hz Smooth
+                                                    <br> Display | 5000mAh Battery |
+                                                    <br> 18W Fast Charging | Single SIM<br>
+                                                     RS:18,500
+                                                </p></th>
+                    
+                                                <th><img src="D:\Images+videos\Images\Mobiles\Mob3.png"width="270px">
+                                                    <p>
+                                                        Vitu W1 3/32 4G LITE<br> 5000 mAh Battery<br>
+                                                         RS:9,500
+                                                    </p></th>
+                    
+                                                    <th><img src="D:\Images+videos\Images\Mobiles\Mob4.png"width="270px">
+                                                        <p>Samsung Galaxy M14 5G (6GB/128GB) |<br>
+                                                             6.6" 90Hz FHD+ Display | 6000mAh 
+                                                             <br>Battery | Exynos 1330<br>
+                                                             RS:25,500
+                                                        </p></th>
+                    
+                                                        <th><img src="D:\Images+videos\Images\Mobiles\Mob5.png"width="270px">
+                                                            <p>badgeApple iPhone 13 - Oliz Store
+                                                            </p><br>
+                                                                 RS:120,900
+                                                            </p></th>
+
+            </tr>
+            </table>
+</body>
+</html>
